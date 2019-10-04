@@ -1,9 +1,15 @@
 # Usecase check-in/check-out vé 24h 
 ## Biểu đồ Sequence check-in 
-![](Check-in24hticket.jpg)
+<p>
+<img align="left" width="180" height="320" hspace="30px" src="/Check-in 24h ticket.jpg">
+</p>
 
 ## Biểu đồ Sequence check-out
-![](Check-out24hticket.jpg)
+<p>
+<img align="left" width="180" height="320" hspace="30px" src="/Check-out 24h ticket.jpg">
+</p>
 
 ## Biểu đồ lớp tham gia Use case
-![](ClassDiagram.jpg)
+<p>
+<img align="left" width="180" height="320" hspace="30px" src="/Class Diagram.jpg">
+</p>
